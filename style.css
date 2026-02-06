@@ -1,0 +1,24 @@
+body {
+    background-color: #121212;
+    font-family:  "Comic Sans MS", "Comic Sans", cursive;
+    color: #FFFFFF;
+    margin: 2em;
+}
+h1 {
+    text-align: center;
+    color: #FF0000;
+}
+
+h2 {
+    color: #ff2c2c;
+    border-top: 1px solid rgb(157, 157, 157); /* Adjust thickness, style, and color as needed */
+    padding-top: 10px; /* Add padding to create space between the line and the text */
+    text-indent: 5px;
+}
+
+
+
+h3 {
+    color: #ff4b4b;
+    text-indent: 10px;
+}
